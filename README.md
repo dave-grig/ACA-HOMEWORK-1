@@ -190,3 +190,5 @@ function allPossibleSubsetsOfLength3OfArray(arr,leftIndex,middleIndex,rightIndex
 }
 
 console.log(allPossibleSubsetsOfLength3OfArray([5, 9, 23, 0, -2, -1],0,1,2,[]));
+
+
